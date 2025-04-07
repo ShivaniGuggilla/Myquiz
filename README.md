@@ -59,8 +59,10 @@ JavaScript
 ![Screenshot (222)](https://github.com/user-attachments/assets/73b37656-1442-485f-a7ac-0306172ecbeb)
 ![Screenshot (223)](https://github.com/user-attachments/assets/ce2ffe47-0561-4888-b25f-522bfd75f158)
 
-📄 License
+📄 License             
+
 This project is open-source and free to use for learning and practice.
 
-📬 Feedback
+📬 Feedback           
+
 Feel free to fork, improve or give feedback. PRs and issues are welcome!
