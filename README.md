@@ -44,3 +44,17 @@ The quiz displays one country image per page with four answer choices. Users mus
    Right-click → Open with → Browser
 3. Play and Enjoy!
    Click "Start the QUIZ!" to begin guessing.
+🔧 Technologies Used
+HTML5
+
+CSS3
+
+JavaScript 
+✨ Screenshots
+![Screenshot (217)](https://github.com/user-attachments/assets/87be1d45-6df4-44c3-a2e1-712b25d48363)
+
+📄 License
+This project is open-source and free to use for learning and practice.
+
+📬 Feedback
+Feel free to fork, improve or give feedback. PRs and issues are welcome!
