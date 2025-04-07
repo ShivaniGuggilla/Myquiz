@@ -51,7 +51,13 @@ CSS3
 
 JavaScript 
 ✨ Screenshots
-![Screenshot (217)](https://github.com/user-attachments/assets/87be1d45-6df4-44c3-a2e1-712b25d48363)
+![Screenshot (217)](https://github.com/user-attachments/assets/8ac2e2b9-63a6-4dd6-97b8-862f5c48dfe9)
+![Screenshot (218)](https://github.com/user-attachments/assets/59d46380-f6f3-42b6-b42b-984999c25699)
+![Screenshot (219)](https://github.com/user-attachments/assets/35b05b5d-03e9-41bb-9673-4b96900dfaf3)
+![Screenshot (220)](https://github.com/user-attachments/assets/b92c0523-97df-4de0-b8fa-dc05387d15be)
+![Screenshot (221)](https://github.com/user-attachments/assets/47ec69ca-47b5-4439-a22f-e8899bd1107b)
+![Screenshot (222)](https://github.com/user-attachments/assets/73b37656-1442-485f-a7ac-0306172ecbeb)
+![Screenshot (223)](https://github.com/user-attachments/assets/ce2ffe47-0561-4888-b25f-522bfd75f158)
 
 📄 License
 This project is open-source and free to use for learning and practice.
