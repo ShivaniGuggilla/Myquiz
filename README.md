@@ -45,7 +45,7 @@ The quiz displays one country image per page with four answer choices. Users mus
 3. Play and Enjoy!
    Click "Start the QUIZ!" to begin guessing.
    
-🔧 Technologies Used
+## 🔧 Technologies Used
 
 
 HTML5
@@ -55,7 +55,7 @@ CSS3
 JavaScript 
 
 
-✨ Screenshots
+##✨ Screenshots
 
 ![Screenshot (217)](https://github.com/user-attachments/assets/8ac2e2b9-63a6-4dd6-97b8-862f5c48dfe9)
 
