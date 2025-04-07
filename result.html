@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Result</title>
+    <link rel="stylesheet" href="2.css">
+    <script>
+        function showResult() {
+            let score = localStorage.getItem("quizScore") || 0;
+            document.getElementById("score").textContent = `Your Final Score: ${score}/7`;
+            localStorage.removeItem("quizScore"); // Reset score after displaying result
+        }
+    </script>
+</head>
+<body onload="showResult()">
+    <p style="font-size: 50px; font-family: cursive; color: palevioletred;">Quiz Completed!</p>
+    <p id="score" style="font-size: 40px; color: goldenrod;"></p>
+    <button class="button" onclick="window.location.href='2.html'">Play Again</button>
+</body>
+</html>

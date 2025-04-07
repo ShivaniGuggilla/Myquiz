@@ -1,0 +1,74 @@
+.center 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 95%;
+}
+.button 
+{
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding: 17px 40px;
+    border-radius: 50px;
+    align-items: center;
+    cursor: pointer;
+    border: 0;
+    color:indianred;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    transition: all 0.5s ease;
+}
+.button:hover 
+{
+    letter-spacing: 3px;
+    background-color:palevioletred;
+    color:burlywood;
+    box-shadow:plum 0px 7px 29px 0px;
+}
+.button:active
+{
+    letter-spacing: 3px;
+    background-color:goldenrod;
+    color:burlywood;
+    box-shadow:gold 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+body 
+{
+    background-color:cornsilk;
+}
+img 
+{
+    border-radius: 8px;
+    border:5px solid goldenrod;
+    margin-bottom: 30px;
+    margin-left: 60px;
+}
+input
+{
+    margin-left: 50px;
+}
+nav
+{
+    background-color:palevioletred; 
+    height:200px;
+    color:cornsilk;
+    font-size: 75px;
+    text-align: center;
+}
+#timer
+{
+  font-size: 24px;
+  font-weight: bold;
+  color: red;
+}
+label
+{
+  font-size: 30px;
+}
